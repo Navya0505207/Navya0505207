@@ -56,5 +56,5 @@ I'm a **3rd-year Computer Science & Engineering student** 🎓 from **Chitkara U
 </p>
 
 <p align="center">
-  🌟 <i>Stay awesome and keep coding!</i> 🌟
+ 
 </p>
