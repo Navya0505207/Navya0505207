@@ -8,7 +8,6 @@ I'm a **3rd-year Computer Science & Engineering student** 🎓 from **Chitkara U
 
 ### ⚡ Quick About Me
 
-*   🎓 **Current CGPA**: `9.13 / 10`
 *   🚀 **Currently working with**: Full-Stack Web Development (React & Node.js).
 *   🌱 **Currently learning**: Data Structures & Algorithms (DSA), Operating Systems (OS), Database Management Systems (DBMS), Computer Networks (CN), and System Design.
 *   💬 **Ask me about**: Java, JavaScript, React.js, Node.js, and Databases.
